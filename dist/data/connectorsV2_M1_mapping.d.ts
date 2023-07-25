@@ -1,0 +1,20 @@
+declare const _default: {
+    oneInch: string;
+    aave: string;
+    aave_v2: string;
+    authority: string;
+    basic: string;
+    comp: string;
+    compound: string;
+    maker: string;
+    uniswap: string;
+    polygon_bridge: string;
+    aave_claim: string;
+    aave_stake: string;
+    aave_v1_import: string;
+    aave_v2_import: string;
+    compoundImport_v2: string;
+    doughpool_v2: string;
+    refinance: string;
+};
+export default _default;
