@@ -22,7 +22,7 @@ export declare type DSAConfig = {
     web3: Web3;
     mode?: 'browser';
 };
-export declare type ChainId = 1 | 137 | 42161 | 43114 | 10 | 250 | 1220;
+export declare type ChainId = 1 | 137 | 42161 | 43114 | 10 | 250 | 220;
 export interface Instance {
     id: number;
     address: string;

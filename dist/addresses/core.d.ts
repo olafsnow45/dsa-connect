@@ -115,7 +115,7 @@ export declare const core: {
             };
         };
     };
-    1220: {
+    220: {
         index: string;
         list: string;
         read: string;
