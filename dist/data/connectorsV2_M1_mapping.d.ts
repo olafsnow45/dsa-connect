@@ -15,6 +15,7 @@ declare const _default: {
     aave_v2_import: string;
     compoundImport_v2: string;
     doughpool_v2: string;
+    doughpool_v4: string;
     refinance: string;
 };
 export default _default;

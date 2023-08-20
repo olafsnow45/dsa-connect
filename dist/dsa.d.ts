@@ -6,6 +6,7 @@ import { Internal, Version } from './internal';
 import { Spells } from './spells';
 import { Transaction, TransactionCallbacks } from './transaction';
 import { Doughpool_v2 } from './resolvers/doughpool_v2';
+import { Doughpool_v4 } from './resolvers/doughpool_v4';
 import { Avocado } from './resolvers/avocado';
 import { Erc20 } from './utils/erc20';
 import { Erc20Euler } from './utils/erc20Euler';
@@ -99,6 +100,7 @@ export declare class DSA {
     readonly castHelpers: CastHelpers;
     readonly transaction: Transaction;
     readonly doughpool_v2: Doughpool_v2;
+    readonly doughpool_v4: Doughpool_v4;
     readonly avocado: Avocado;
     readonly accounts: Accounts;
     encodeSpells: (params: Spells | {
