@@ -8,8 +8,6 @@ export declare const core: {
                 account: string;
                 connectors: string;
                 events: string;
-                doughpool: string;
-                dydx_flash: string;
             };
             2: {
                 accountProxy: string;
