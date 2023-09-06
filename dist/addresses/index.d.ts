@@ -300,10 +300,6 @@ export declare const Addresses: {
             };
             137: {
                 versions: {
-                    1: {
-                        basic: string;
-                        authority: string;
-                    };
                     2: {
                         '1INCH-A': string;
                         '1INCH-V5-A': string;
